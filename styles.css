@@ -69,11 +69,13 @@ h1 {
     color: black;
     padding: 1rem;
     border-bottom-left-radius: 1.5rem;
+    position: fixed;
+    top: 0%;
+    width: 100%;
 }
 
 .navigation .nav-brand {
     font-weight: bold;
-
 }
 
  .navigation .link {
@@ -98,6 +100,7 @@ h1 {
      max-width: 350px;
      display: block;
      margin: auto;
+     margin-top: 8rem;
  }
 
  .hero .hero-heading {
